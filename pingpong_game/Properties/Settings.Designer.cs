@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PingPong.Properties
+namespace pingpong_game.Properties
 {
 
 
